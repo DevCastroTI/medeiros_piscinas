@@ -573,6 +573,10 @@ nav {
         height: 360px;
     }
 
+    .zaplogo {
+        margin-top: -463px;
+    }
+
     .zaplogo img {
         margin-top: -59px;
         width: 50px;
